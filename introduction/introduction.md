@@ -105,7 +105,7 @@
 
 ------------------
 
-##Bullshit-O-meter
+##Bullshit-**O**-meter
 
 - "Notre algorithme révolutionnaire"
 - "Nos logiciels **brevetés**"
