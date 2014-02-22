@@ -14,13 +14,14 @@
 
 ## **CryptoParty** ?
 
+- @Asherwolf
 - libre et gratuite d'accès
 - publique
 - non commercial et non alignée politiquement
 - contre toutes formes de discrimination et d'harcèlement sexuel
 
 <details>
-Créé dans durant 2012 suite aux lois sur la rétention de données en Australie.
+Créé vers décembre 2012 suite aux lois sur la rétention de données en Australie.
 Partage des connaissances.
 </details>
 
@@ -48,6 +49,7 @@ La sécurité total n'existe pas. La sécurité est une voie, rien ne se fait du
 
 <details>
 Car auditable, si même en connaissant l'algorithme complet qui protège ont ne peux le casser, alors il est sécurisé.
+</details>
 
 ------------------
 
@@ -62,6 +64,10 @@ Car auditable, si même en connaissant l'algorithme complet qui protège ont ne 
 - entre 1970 et 1980
 - **dépourvu de sécurité**
 - réseau basé sur la **confiance**
+
+<details>
+Dépourvu de sécurité, mais créer de façon à être suffisamment généralisable pour qu'on le sur-couche de sécurité.
+</details>
 
 ------------------
 
@@ -103,7 +109,7 @@ Allemagne et Belgique non pas de loi sur la rétention de données. République 
 #Surveillance d'**Internet**
 
 <details>
-Internet est construit sans la sécurité à l'esprit, le réseau est basé sur la confiance dans ses noeuds, les acteurs majeurs sont des acteurs commerciaux.
+Récapitulons: Internet est un réseau ouvert, il à été créé sans la sécurité à l'esprit, le réseau est basé sur la confiance dans ses noeuds, les acteurs majeurs sont des acteurs commerciaux.
 <details>
 
 ------------------
