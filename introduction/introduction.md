@@ -19,6 +19,11 @@
 - non commercial et non alignée politiquement
 - contre toutes formes de discrimination et d'harcèlement sexuel
 
+<details>
+Créé dans durant 2012 suite aux lois sur la rétention de données en Australie.
+Partage des connaissances.
+</details>
+
 ------------------
 
 ## Cryptographie et sécurité
@@ -28,6 +33,11 @@
 - tout à un coût
 - (d'apprentissage, de temps...)
 
+<details>
+On peut avoir le meilleur algorithme de chiffrement, si on laisse la clé trainer il est inutile
+La sécurité total n'existe pas. La sécurité est une voie, rien ne se fait du jours au lendemain, tout est graduel, et on fait des erreurs.
+</details>
+
 ------------------
 
 ## **FOSS** et logiciel privateur
@@ -35,6 +45,9 @@
 - **F**ree and **O**pen **S**ource **S**oftware
 - liberté de l'utilisateur
 - avantage en sécurité
+
+<details>
+Car auditable, si même en connaissant l'algorithme complet qui protège ont ne peux le casser, alors il est sécurisé.
 
 ------------------
 
@@ -54,6 +67,9 @@
 
 <img src="internet_diagram.svg" style="width: 100%">
 
+<details>
+Paquets passe par votre routeur, votre FAI, d'autre réseau, et arrive enfin à destination. Mode patate chaude.
+</details>
 ------------------
 
 #**Internet** ça laisse des **traces**
@@ -78,9 +94,17 @@
 - Europe (6 mois à 2 ans)
 - Allemagne, Belgique, (République Tchèque, Norvège)
 
+<details>
+Allemagne et Belgique non pas de loi sur la rétention de données. République Tchèque en cour de changement, Norvège jusqu'en 2015
+</details>
+
 ------------------
 
 #Surveillance d'**Internet**
+
+<details>
+Internet est construit sans la sécurité à l'esprit, le réseau est basé sur la confiance dans ses noeuds, les acteurs majeurs sont des acteurs commerciaux.
+<details>
 
 ------------------
 
@@ -103,6 +127,11 @@
 - chiffrement de ses disques
 - cryptomonnaie, bitmessage, twister...
 
+<details>
+Protéger ses communications ce n'est pas seulement se protéger sois même, c'est protéger les autres.
+Vous ne pouvez pas contrôler ce que vas dire votre correspondant. C'est peut être anodin aujourd'hui, mais tout cela est collecté hors contexte.
+</details>
+
 ------------------
 
 ##Bullshit-**O**-meter
@@ -118,3 +147,7 @@
 # &lt;**3**
 
 - bug...
+
+<details>
+C'est tout ce que j'ai.
+</details>
