@@ -15,7 +15,7 @@
 ## **CryptoParty** ?
 
 - @Asherwolf
-- libre et gratuite d'accès
+- gratuite et libre d'accès
 - publique
 - non commercial et non alignée politiquement
 - contre toutes formes de discrimination et d'harcèlement sexuel
@@ -85,8 +85,8 @@ Paquets passe par votre routeur, votre FAI, d'autre réseau, et arrive enfin à 
 ##**Internet** ça laisse des **traces**
 
 - dans votre ordinateur
-- dans votre **routeur**
-- chez votre **FAI**
+- dans votre **routeur** (modem, box...)
+- chez votre **F**ournisseur d'**A**ccès à **I**nternet
 - chez les **sites** que vous contactez
 - sur toutes les **machines intermédiaires**
 - smartphone, tablettes, appareils connectés...
