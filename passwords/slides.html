@@ -1,0 +1,281 @@
+
+<div class="slides">
+    <section data-id="86ef1edf576a3fe119da96335c1b4bc4">
+        <h1>La gestion des</h1>
+<h1>mots de passe</h1>
+<div>
+        <br>
+        </div>
+<div>Jacques Supcik</div>
+<div>CryptoParty Fribourg - 22 Mars 2014</div>
+    </section>
+    <section data-id="86a03205ca2b37f2e512ae745a8ae462">
+        <h2>Puissance actuelle des ordinateurs</h2>
+<div>
+        <br>
+    </div>
+<div>
+    <ul>
+<li class="fragment" data-fragment-index="0">
+<span style="text-align: center;">Les ordinateurs sont de plus en plus rapides</span>
+    <br>
+</li>
+<li class="fragment" data-fragment-index="1">
+    <span style="text-align: center;">Il y en a toujours plus (certaines organisations possèdent plus de 1'000'000 d'ordinateurs</span>
+</li>
+<li class="fragment" data-fragment-index="2">
+<span style="text-align: center;">Les cartes graphiques (GPU) ont une très grande puissance de calcul et ne sont pas très chères</span>
+</li>
+<li class="fragment" data-fragment-index="3">
+<span style="text-align: center;">Il existe des circuits électronique spécifiquement conçus pour essayer des mots-de-passe (ASICs)</span>
+</li>
+</ul>
+</div>
+</section>
+<section data-id="3f771e7490f076982120d5f5930b2dd6">
+    <h2>Mais il y a quand même des limites</h2>
+<div>
+    <br>
+</div>
+<div>
+<p>
+</p>
+<p>
+</p>
+<ul>
+<li class="fragment" data-fragment-index="0">
+<span style="text-align: center;">Considérons une clé de 128 bit</span>
+<br>
+</li>
+<li class="fragment" data-fragment-index="1">
+<span style="text-align: center;">340282366920938463463374607431768211456</span>
+<br>
+</li>
+<li class="fragment" data-fragment-index="2">
+<span style="text-align: center;">Pour essayer toutes les combinaisons d'une clé de 128 bit pendant une année, les caclulateurs consommeraient 30 Gigawatt</span>
+</li>
+<li class="fragment" data-fragment-index="3">
+<span style="text-align: center;">Soit plus de 1% de la consommation mondiale d'énergie&nbsp;</span>
+</li>
+</ul>
+<p>
+</p>
+<p>
+</p>
+</div>
+</section>
+<section data-id="449727c3b3651692b85e3a12f90ed45d">
+    <h2 style="font-style: normal; font-variant: normal;">Mais il y a quand même des limites</h2>
+<h2 style="font-style: normal; font-variant: normal;">
+    <span style="font-size: 54px;">
+        <br>
+    </span>
+    </h2>
+<h2 style="font-style: normal; font-variant: normal;">
+<span style="font-size: 54px;">Une clé de 128 bits représente déjà une limite impossible à atteindre avec la technologie </span>
+    <b style="font-size: 54px;">actuelle</b>
+    <br>
+</h2>
+</section>
+<section data-id="d746b339ea2636ff418b80f564ce33f9">
+    <h2>Le choix d'un bon mot de passe</h2>
+<div>
+    <br>
+</div>
+<p style="text-align: center; ">
+<span style="text-align: left;">La qualité du mot de passe dépend de deux caractéristiques:</span>
+</p>
+<p>
+</p>
+<ul>
+<li>
+<span>La longueur du mot de passe</span>
+<br>
+</li>
+<li>
+<span>Les caractères (l'alphabet) utilisé dans le mot de passe</span>
+<br>
+</li>
+</ul>
+<div style="text-align: left;">
+<br>
+</div>
+<div style="text-align: center;">
+<b>Le plus important est la longueur du mot de passe</b>
+</div>
+<div style="text-align: center;">
+<br>
+</div>
+<div style="text-align: center;">Pour un mot de passe complexe (2^128):</div>
+<div style="text-align: center;">
+<ul>
+<li>
+<span style="text-align: center;">Il faut 22 caractères «complexes» (lettres + chiffres + spécial)</span>
+<br>
+</li>
+<li>
+<span style="text-align: center;">ou 24 lettres (majuscules + minuscules)</span>
+<br>
+</li>
+<li>
+<span style="text-align: center;">ou 28 lettres (que des minuscules)</span>
+<br>
+</li>
+</ul>
+</div>
+<p>
+</p>
+</section>
+<section data-id="424ed2dcc6d696427cee62c9efc8c2fe">
+    <h2>Mauvais mots de passe</h2>
+<div>
+    <br>
+</div>
+<div>
+<ul>
+<li class="fragment" data-fragment-index="0">Les nombres</li>
+<li class="fragment" data-fragment-index="1">Les mots du dictionnaire («seulement» 30'000 - 50'000 mots en Français)</li>
+<li class="fragment" data-fragment-index="2">Les mots du dictionnaires écrits en l'envers</li>
+<li class="fragment" data-fragment-index="3">Les mots du dictionnaire avec un mélange de majuscules et de minuscules (DiCTioNnaIRE)</li>
+<li class="fragment" data-fragment-index="4">Les mots du dictionnaire avec des substitutions simples (D!ct!0nna!r3)</li>
+<li class="fragment" data-fragment-index="5">Noms propres</li>
+<li class="fragment" data-fragment-index="6">Lettres consécutives sur le clavier (qwertzuiop)</li>
+</ul>
+</div>
+</section>
+<section data-id="e5edfed9598c39207567e43f89b5b923">
+    <h2>Les bons mots de passe</h2>
+<div>
+    <div>
+        <ul>
+<li>
+                <span style="text-align: center;">Mots de passe longs (si possible plus de 20 caractères, mais au minimum 10 caractères)&nbsp;</span>
+                <br>
+</li>
+            <li>
+                <span style="text-align: center;">Mots de passe avec des caractères quelconques.</span>
+                <br>
+</li>
+        </ul>
+</div>
+    <div>&nbsp;</div>
+    <div>Voici quelques «bons» mots de passe:</div>
+    <div>
+        <br>
+</div>
+    <div>X#er/TE4vd@ZvO;S+gS5:wUm</div>
+    <div>5BT$~Q@e33.0y6-gy,\HHz-i</div>
+    <div>sJ!Og6B1!lgE&lt;#)HgQb?zv_J</div>
+    <div>G&lt;L&lt;edZ:eEo&lt;M;+\DX=-{l&amp;]</div>
+    <div>(G+8cVMdYrx%Ygo3yoT1LS|?&gt;</div>
+    <div>T3CX6/L2YUYX#1kxV$:go'A"</div>
+</div>
+</section>
+    <section data-id="35ed6434ad50604246fecbbd3c352f5c">
+        <h2>D'autres bons mots de passe</h2>
+<div>
+        <br>
+        </div>
+<div>"GeParrt!ss!peAUneKr!ptaux"</div>
+<div>"LaZoliMuzéDHistoyrNatourele"</div>
+<div>&nbsp;"Une phrase avec onze mots simples mais ca fait très long"</div>
+    </section>
+    <section data-id="9f9de6a777c647b528a4368bcf5f9e79">
+        <h2>Comment utiliser les mots de passe</h2>
+<div>
+        <br>
+    </div>
+<div>
+    <ul>
+<li>
+<span style="text-align: center;">Ne jamais utiliser le même mot de passe pour différents services</span>
+    <br>
+</li>
+<li>
+<span style="text-align: center;">C'est OK de noter les mots de passe sur un carnet, mais il existe de meilleures solutions...</span>
+    <br>
+</li>
+</ul>
+</div>
+</section>
+<section data-id="54a1c0f808ce95774d5cd07f425889b0">
+    <h2>Les outils</h2>
+<div>
+    <br>
+</div>
+<div>KeepassX</div>
+<div>https://www.keepassx.org/<br>
+</div>
+<div>
+<br>
+</div>
+<div>Password Safe (Bruce Schneier)</div>
+<div>http://passwordsafe.sourceforge.net/<br>
+</div>
+<div>
+<br>
+</div>
+<div>Password Gorilla</div>
+<div>https://github.com/zdia/gorilla/wiki<br>
+</div>
+</section>
+<section data-id="2c48fc0515874bc0895d85db60c7e50b">
+    <h2>KeepassX</h2>
+<div>
+    <br>
+    </div>
+<div>Disponibles pour toutes les plateformes</div>
+<div>
+<span>Y-compris pour les smartphones</span>
+    <br>
+</div>
+<div>
+    <div style="font-size: 36.549705505371094px; font-style: normal; font-variant: normal;">Compatible avec KeePass 1.x (Classic)</div>
+</div>
+<div style="font-size: 36.549705505371094px; font-style: normal; font-variant: normal;">mais pas avec KeePass 2!</div>
+<div>
+<br>
+</div>
+<div>On peut stocker la base de données dans le «cloud», à condition d'utiliser un «key file» en plus du mot de passe.</div>
+</section>
+<section data-id="5425436df6b91ce6b0cb0ebb4398ff2f">
+    <h2>Les outils en ligne</h2>
+<div>
+    <br>
+</div>
+<div>LastPass</div>
+<div>https://lastpass.com/<br>
+</div>
+<div>
+<br>
+</div>
+<div>Clipperz</div>
+<div>https://clipperz.is/<br>
+</div>
+</section>
+<section data-id="92dbf0bb9e71d0d0f73df0cd9cddceec">
+    <h2>Les alternatives aux mots de passe</h2>
+<div>
+    <br>
+</div>
+<div>
+<ul>
+<li>
+<span style="text-align: center;">Les certificats X509</span>
+<br>
+</li>
+<li>
+<span style="text-align: center;">Les mots de passe à usage unique</span>
+<br>
+</li>
+<li>
+<span style="text-align: center;">L'authentication unique (single sign-on)</span>
+<br>
+</li>
+</ul>
+</div>
+<div>
+<br>
+</div>
+</section>
+</div>
